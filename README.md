@@ -1,6 +1,6 @@
 # Hi, I’m MBafalukos
 
-Aspiring Software Engineer focused on building clean, responsive frontends and reliable backend services.  
+Aspiring Software Engineer focused on building clean, responsive frontends.
 Currently preparing for interviews and strengthening fundamentals.
 
 
