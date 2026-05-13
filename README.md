@@ -1,17 +1,16 @@
 # Hi, I’m MBafalukos
 
-Aspiring Software Engineer focused on building clean, responsive frontends.
+Aspiring Software Engineer
 Currently preparing for interviews and strengthening fundamentals.
 
 
 ## Tech Stack
-- **Frontend:** React, TypeScript, Tailwind CSS, shadcn/ui
-- **Backend:** Python 
-- **Database:** SQL, schema design, query optimization
+- **Frontend:** Most TS frameworks , mainly ( Angular , React, NextJS ) 
+- **Backend:** .NET framework , Python , Java
 - **Tooling:** Git 
 
 ### Connect
-- LinkedIn: (https://www.linkedin.com/in/michalis-bafalukos-468338176/)
-- Portfolio: (https://mbafalukos.github.io/Portfolio/)
+- LinkedIn: https://www.linkedin.com/in/michalis-bafalukos-468338176/
+- Portfolio: https://mbafalukos.github.io/Portfolio/
 - Email: m.bafalukos@gmail.com
 
